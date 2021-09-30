@@ -85,3 +85,7 @@ public class Main {
        }
     }
 }
+//Example
+//int[] arr={5,2,4,3,8,6}
+//output:
+//2,3,4,5,6,8.
